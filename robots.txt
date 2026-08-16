@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-u15a0l.nuansa138win.cfd/sitemap.xml
